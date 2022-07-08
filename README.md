@@ -5,13 +5,21 @@
 + 📫 How to reach me: 1271927097 aT QQ DoT com...
 + ⚡ Fun fact: 
  + Touhou Project
+   + Reimu
+   + Marisa
+   + Suika
+   + Sakuya
+   + Shinmyoumaru
+   ...
  + VOCALOID
-  + Luo Tianyi
-  + Yan He
-  + Yue Zhengling
-  ...
+   + Luo Tianyi
+   + Yan He
+   + Yue Zhengling
+   ...
  + Anime
-  + Suzumiya Haruhi
-  + K-on
-  + Girl Last Toor
+   + Suzumiya Haruhi
+   + K-on
+   + Girl Last Toor
   ...
+ 
+ ...
