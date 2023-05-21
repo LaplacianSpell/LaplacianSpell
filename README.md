@@ -1,9 +1,16 @@
-Hi there! My name is LaplaceSpell and I'm an undergraduate student in Dept. Physics, Tsinghua Univ. I'm a passion-driving coder!
+Hi there! I'm @LaplacianSpell (LaplaceSpell/Naive Laplace...) 
+
+I'm an undergraduate student in Dept. Physics, Tsinghua Univ. 
+
+I'm a passion-driven coder!
 
 I'm currently intereted in:
 
-(1) Server Maintenance Technology like Web, Network... (beginning)
-(2) [hep-th](https://arxiv.org/list/hep-th/new), currently learning AdS/CFT-related stuffs (major)
+* Server Maintenance Technology like Web, Network... (beginning)
+* [hep-th](https://arxiv.org/list/hep-th/new), currently learning AdS/CFT-related stuffs (major)
+
+...
+
 
 Stay Hungry, Stay Foolish, Stay Curious. 
 
